@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b4d2c6ba-ed1a-41d8-994e-4b611666544c)
+
 # Redux Application
 
 This is a React application using Redux for state management, Vite for fast builds, and ESLint for code quality checks.
@@ -23,7 +25,7 @@ React Router DOM: Declarative routing for React applications
 Axios: Promise-based HTTP client for making API requests
 i18next: Internationalization library for handling translations
 React Toastify: Notification library
-FontAwesome: Icon library
+FontAwesome: Icon Library
 Stripe.js: Payment processing
 
 # Development Dependencies
@@ -83,22 +85,28 @@ Welcome to the user guide for the product website! This guide will help you navi
 
 Products: View the list of available products.
 Contact: Get in touch with us for any inquiries.
-Cart: Access the products you have added to your shopping cart. 2. Homepage
-On the homepage, you will see a preview of 4 products. If you would like to explore more items, simply click the "View All" button, which will take you to the All Products page. Here, you can browse the complete product catalog.
+Cart: Access the products you have added to your shopping cart.
 
-3. Adding Products to Cart
+2. Homepage
+On the homepage, you will see a preview of 4 products. If you want to explore more items, click the "View All" button, which will take you to the All Products page. Here, you can browse the complete product catalogue.
+
+3. Adding Products to the Cart
    On the All Products page, you can:
 
 Add products to your cart: Click the "Add to Cart" button, and a toaster notification will appear confirming which product has been added.
 View your cart: Once you navigate to the Cart page, you will see the items you have added. You can manage your cart by:
 Increasing or decreasing product quantities.
-Clearing the cart to remove all items at once. 4. Filtering Products
+Clearing the cart to remove all items at once.
+
+4. Filtering Products
 To help you find the products you're looking for, you can use the filter options:
 
 Category: Filter products by category, such as electronics, clothing, or accessories.
 Name: Search for products by name.
-Price: Sort products based on price to find items that fit your budget. 5. Language-Switching
-You can switch the website’s language between English and French at any time using the language switcher option, ensuring a comfortable browsing experience in your preferred language.
+Price: Sort products based on price to find items that fit your budget.
+
+5. Language-Switching
+Using the language switcher option, you can switch the website’s language between English and French at any time, ensuring a comfortable browsing experience in your preferred language.
 
 6. Responsiveness
    The website is fully responsive, meaning it adapts seamlessly to both mobile and desktop devices, providing an optimal user experience across different screen sizes.
