@@ -51,6 +51,29 @@ npm run dev
 
 This will start the Vite development server. You can then access the application in your browser at http://localhost:5173.
 
+# Server for Redux E-commerce Store
+This is the backend server for the Redux e-commerce store, built using Express.js.
+
+# Dependencies
+The server depends on the following libraries:
+
+Express: Minimal web framework for Node.js.
+CORS: Middleware for enabling Cross-Origin Resource Sharing.
+Stripe: Stripe API for payment processing.
+Nodemon: Utility for automatically restarting the server during development.
+
+Installation
+1. Navigate to the project folder:
+  cd server
+
+2. Install the required dependencies:
+  npm install
+
+3. Running the Server
+To run the server in development mode (with automatic restarts using nodemon), use:
+ npm run dev
+
+
 # User Guide for the Application
 
 Welcome to the user guide for the product website! This guide will help you navigate the key features, including filtering, sorting, and language-switching options.
