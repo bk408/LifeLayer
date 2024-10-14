@@ -37,7 +37,7 @@ ESLint: Linter to identify and fix problems in JavaScript/JSX code
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/bk408/Life-Layer
+git clone https://github.com/bk408/LifeLayer
 
 2. Navigate to the project directory:
    cd redux
@@ -78,16 +78,14 @@ To run the server in development mode (with automatic restarts using nodemon), u
 
 # User Guide for the Application
 
-Welcome to the user guide for the product website! This guide will help you navigate the key features, including filtering, sorting, and language-switching options.
+Welcome to the user guide for the product website! This guide will help you navigate the key features, including filtering, sorting, language-switching options and the checkout process
 
 1. Navigation
    When you open the website, you will find the following options in the navbar:
 
 Products: View the list of available products.
 Contact: Get in touch with us for any inquiries.
-Cart: Access the products you have added to your shopping cart.
-
-2. Homepage
+Cart: Access the products you have added to your shopping cart. 2. Homepage
 On the homepage, you will see a preview of 4 products. If you want to explore more items, click the "View All" button, which will take you to the All Products page. Here, you can browse the complete product catalogue.
 
 3. Adding Products to the Cart
@@ -96,19 +94,25 @@ On the homepage, you will see a preview of 4 products. If you want to explore mo
 Add products to your cart: Click the "Add to Cart" button, and a toaster notification will appear confirming which product has been added.
 View your cart: Once you navigate to the Cart page, you will see the items you have added. You can manage your cart by:
 Increasing or decreasing product quantities.
-Clearing the cart to remove all items at once.
+Clearing the cart to remove all items at once. 
 
-4. Filtering Products
-To help you find the products you're looking for, you can use the filter options:
+4. Checkout and Payment
+Once you've added your favourite products to the cart, you can proceed to the Checkout page:
 
-Category: Filter products by category, such as electronics, clothing, or accessories.
+Review your order: Double-check the products and quantities.
+Make a secure payment: Enter your payment details to complete the purchase.
+A confirmation message will appear once the payment is successfully processed, and your order details will be shared.
+
+5. Filtering Products
+You can easily find products by using the filtering options:
+
+Category: Filter products by specific categories such as clothing, electronics, or accessories.
 Name: Search for products by name.
-Price: Sort products based on price to find items that fit your budget.
+Price: Sort products based on your budget.
+6. Language-Switching
+The website offers a language switcher that lets you toggle between English and French, providing a comfortable browsing experience in your preferred language.
 
-5. Language-Switching
-Using the language switcher option, you can switch the website’s language between English and French at any time, ensuring a comfortable browsing experience in your preferred language.
+7. Responsiveness
+This website is fully responsive, ensuring that it works smoothly on both mobile devices and desktop computers, offering a seamless experience across all screen sizes.
 
-6. Responsiveness
-   The website is fully responsive, meaning it adapts seamlessly to both mobile and desktop devices, providing an optimal user experience across different screen sizes.
-
-Enjoy browsing and shopping on our website!
+Enjoy browsing, adding your favourite products, and completing your purchase on our user-friendly platform!
