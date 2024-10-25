@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b4d2c6ba-ed1a-41d8-994e-4b611666544c)
+
 # Redux Application
 
 This is a React application using Redux for state management, Vite for fast builds, and ESLint for code quality checks.
@@ -23,7 +25,7 @@ React Router DOM: Declarative routing for React applications
 Axios: Promise-based HTTP client for making API requests
 i18next: Internationalization library for handling translations
 React Toastify: Notification library
-FontAwesome: Icon library
+FontAwesome: Icon Library
 Stripe.js: Payment processing
 
 # Development Dependencies
@@ -84,9 +86,9 @@ Welcome to the user guide for the product website! This guide will help you navi
 Products: View the list of available products.
 Contact: Get in touch with us for any inquiries.
 Cart: Access the products you have added to your shopping cart. 2. Homepage
-On the homepage, you will see a preview of 4 products. If you would like to explore more items, simply click the "View All" button, which will take you to the All Products page. Here, you can browse the complete product catalog.
+On the homepage, you will see a preview of 4 products. If you want to explore more items, click the "View All" button, which will take you to the All Products page. Here, you can browse the complete product catalogue.
 
-3. Adding Products to Cart
+3. Adding Products to the Cart
    On the All Products page, you can:
 
 Add products to your cart: Click the "Add to Cart" button, and a toaster notification will appear confirming which product has been added.
@@ -95,7 +97,11 @@ Increasing or decreasing product quantities.
 Clearing the cart to remove all items at once. 
 
 4. Checkout and Payment
+<<<<<<< HEAD
 Once you've added your favorite products to the cart, you can proceed to the Checkout page:
+=======
+Once you've added your favourite products to the cart, you can proceed to the Checkout page:
+>>>>>>> 01e6a3c66b8ab0a7b8414077cc5f48f49e14019d
 
 Review your order: Double-check the products and quantities.
 Make a secure payment: Enter your payment details to complete the purchase.
@@ -113,4 +119,8 @@ The website offers a language switcher that lets you toggle between English and 
 7. Responsiveness
 This website is fully responsive, ensuring that it works smoothly on both mobile devices and desktop computers, offering a seamless experience across all screen sizes.
 
+<<<<<<< HEAD
 Enjoy browsing, adding your favorite products, and completing your purchase on our user-friendly platform!
+=======
+Enjoy browsing, adding your favourite products, and completing your purchase on our user-friendly platform!
+>>>>>>> 01e6a3c66b8ab0a7b8414077cc5f48f49e14019d
