@@ -4,6 +4,7 @@ import axios from "axios";
 
 import ProductCard from "./ProductCard";
 import { useTranslation } from "react-i18next";
+import Loading from "./Loading";
 
 const Products = () => {
   const [products, setProducts] = useState([]);
@@ -105,7 +106,7 @@ const Products = () => {
   if (loading) {
     return (
       <div>
-        <p>Loading...</p>
+        <Loading />
       </div>
     );
   }
